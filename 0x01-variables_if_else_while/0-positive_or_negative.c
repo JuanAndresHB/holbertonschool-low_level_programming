@@ -4,7 +4,7 @@
 /**
 * main - This program will assign random number variable n each time executed
  * Return: void
-  */
+ */
  int main(void)
  {
 	 int n;
